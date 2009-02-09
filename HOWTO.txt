@@ -1,0 +1,15 @@
+HOWTO:
+
+1. Clone the git repository
+2. copy the css/sass/* files to your project
+3. Include follwing files in your application:
+     reset.sass
+     text.sass
+     grid.sass
+
+For instructions how to use the 960gs see following webbsites:
+http://960.gs
+http://nettuts.com/tutorials/html-css-techniques/prototyping-with-the-grid-960-css-framework/
+Please note that these websites refer to pixels since the orignal 960gs is pixel based.
+Fluid 960 Grid System is NOT pixel based
+

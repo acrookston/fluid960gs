@@ -1,3 +1,48 @@
+SASS Fluid 960 Grid System
+Version 1.0.0
+2009-02-09
+
+Created by Andrew Crookston. Based on the work of Stephen Bau and Nathan Smith.
+
+============================================================================
+
+Thank you for downloading the SASS Fluid 960 Grid System.
+Note that these templates have been built upon the work of Stephen Bau and
+Nathan Smith.
+The idea for building these templates was to provide a quick and easy way to
+provide you with the Fluid 960 Grid System in a SASS format.
+
+
+These templates are offered free of charge in accordance
+with the applicable licenses for Fluid 960 Grid System, 960 Grid System
+and Mootools.
+
+The SASS Fluid 960 Grid System is released under the GPL/MIT Licenses.
+960 Grid System is released under the GPL/MIT Licenses: http://960.gs/
+Mootools is released under the MIT License: http://mootools.net/
+
+For a quick howto see the HOWTO.txt file.
+
+HAML & SASS:
+http://haml.hamptoncatlin.com/
+
+Documentation:
+http://haml.hamptoncatlin.com/docs/
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+============================================================================
+
+
+
 Fluid 960 Grid System
 Version 1.0.3
 2009-02-01
